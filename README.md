@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @petrmbugua
-- 🌱 I’m currently improving my skills in Reactjs, Django, Nodejs, PHP, Python, Express, Nextjs, Mongodb, sql, postresql
+- 👋 Hi, I’m Peter Mbugua and I am a self taught full stack web developer.
+- 🌱 I’m currently focusing on Reactjs, Django, Nodejs, PHP, Python, Express, Nextjs, Mongodb, sql, postresql
 - 📫 You can reach me through petrmbugua@gmail.com
 
 <!---
